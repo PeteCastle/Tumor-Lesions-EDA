@@ -25,7 +25,7 @@ KNN and SVC also achieved relatively high scores, both in terms of accuracy, F1 
 
 However, logistic regression performed poorly, suggesting that the data is not linear in nature.
 
-https://github.com/PeteCastle/Hospitality-and-Location-Dataset/raw/main/resources/images/2023-08-26-19-05-32.png
+![PetecastleLogo](https://github.com/PeteCastle/Hospitality-and-Location-Dataset/raw/main/resources/images/2023-08-26-19-05-32.png)
 
 **Francis Mark M. Cayco**
 
